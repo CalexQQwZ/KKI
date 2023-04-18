@@ -1,6 +1,9 @@
-public class Player
-{
+import java.util.ArrayList;
+
+public class Player {
     private int healthPoints;
-    private int awareness;
-    private int insight;
+    private int conversant;//Осознание;
+    private int comprehension;//Понимание;
+    private int lassitude;//Усталость;
+
 }
